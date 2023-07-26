@@ -4,10 +4,10 @@
 
 [![Profile View Counter](https://komarev.com/ghpvc/?username=pyrroz)](https://github.com/pyrroz)
 
-📚 21, French Student based in Bordeaux, 3rd
+📖 21-year-old French Student based in Bordeaux, in my third year of studies at Epitech.
 
 
-🎓 Preparing my title of IT Expert.
+🎓 Currently working towards my IT Expert certification.
 
 ## 📩 Contact
 - 📩 valentin.eyraud@epitech.eu
